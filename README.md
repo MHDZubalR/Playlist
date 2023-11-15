@@ -37,6 +37,8 @@
 * JadooIPTV Bearer Token Updater
 * Scripts
 
+[Contributed by Robiul Hossain]
+
 > **Note**
 
 > I'm using PHP 6.You can use other Languages.
