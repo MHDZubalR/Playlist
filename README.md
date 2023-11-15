@@ -30,6 +30,7 @@
 * SONYLIV
 * BINGE BD
 * RabbitholeBD
+* DSZB18.Com 
 
 💥 TOOLS 💥
 * TataPlay Playlist Updater with Private Telegram Bot
