@@ -17,10 +17,20 @@
 
 💥 PLAYLISTs 💥
 
-*
-*
-*
-*
+* BIOSCOPE
+* TOFFEE
+* ARYZAP
+* JADOO IPTV
+* TATAPLAY
+* Stream.CricHD.VIP
+* m6.CricHD.Com
+* DaddyLive
+* VOOT
+* ZEE5
+* SONYLIV
+* BINGE BD
+* RabbitholeBD
+
 
 > **Note**
 > I'm using PHP 6.You can use other Languages.
