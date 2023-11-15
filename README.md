@@ -9,11 +9,7 @@
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
       <img src="https://img.shields.io/badge/MHDZubair-%E2%98%BC-green.svg">
   </a>
-    <img src="https://img.shields.io/badge/Live-Channels-Playlist-purple">
-  </a>
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made-in-OMAN[🇴🇲]-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
-</p>
+  </p>
 
 <h1 align="center">
 <img src="https://i.postimg.cc/8cpX4T7W/IMG-20231007-170502-315.jpg"></a>
