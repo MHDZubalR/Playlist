@@ -1,5 +1,5 @@
 
-<h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee App Channels Link and Cookie </h2>
+<h2 align="center">Lets Break Scam Business of IPTV</h2>
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -7,17 +7,16 @@
          alt="Gitter">
   
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/Byte_Capsule-%E2%98%BC-green.svg">
+      <img src="https://img.shields.io/badge/MHDZubair-%E2%98%BC-green.svg">
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
-    <img src="https://img.shields.io/badge/App-Toffe_Live-purple">
+    <img src="https://img.shields.io/badge/Live-Channels-Playlist-purple">
   </a>
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
+  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made-in-OMAN[🇴🇲]-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
 </p>
 
 <h1 align="center">
-<img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images%20(1).jpeg"></a>
+<img src="https://i.postimg.cc/8cpX4T7W/IMG-20231007-170502-315.jpg"></a>
 </h1>
 
 💥 PLAYLISTs 💥
