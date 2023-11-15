@@ -37,8 +37,6 @@
 * JadooIPTV Bearer Token Updater
 * Scripts
 
-[Contributed by Robiul Hossain]
-
 > **Note**
 
 > I'm using PHP 6.You can use other Languages.
@@ -49,6 +47,7 @@
 
 # 🚬Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+MHD+Zubair)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Contributed+By+Robiul+Hossain)](https://git.io/typing-svg)
 
 # ✉️Find Me on 
 
