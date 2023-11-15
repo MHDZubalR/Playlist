@@ -34,6 +34,8 @@
 
 > **Note**
 > I'm using PHP 6.You can use other Languages.
+> Playlists available are mentioned below and not made public.  Also the playlists are made with PHP to avoid leaks and infringing rights of the Creator
+> It'll be shared with individuals on consideration and legitimacy 
 
 # 🚬Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+MHD+Zubair)](https://git.io/typing-svg)
