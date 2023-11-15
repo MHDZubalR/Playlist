@@ -31,10 +31,18 @@
 * BINGE BD
 * RabbitholeBD
 
+💥 TOOLS 💥
+* TataPlay Playlist Updater with Private Telegram Bot
+* Rabbithole x-access-token Updater
+* JadooIPTV Bearer Token Updater
+* Scripts
 
 > **Note**
+
 > I'm using PHP 6.You can use other Languages.
+
 > Playlists available are mentioned below and not made public.  Also the playlists are made with PHP to avoid leaks and infringing rights of the Creator
+
 > It'll be shared with individuals on consideration and legitimacy 
 
 # 🚬Credits
