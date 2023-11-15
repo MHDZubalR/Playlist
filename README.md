@@ -30,7 +30,7 @@
 
 # ✉️Find Me on 
 
-- [![Telegram](https://img.shields.io/badge/Telegram-MHDZubair-indigo?style=for-the-badge&logo=telegram)](https://t.me/J_9X_H_9X_N)
+- [![Telegram](https://img.shields.io/badge/Telegram-MHDZubair-indigo?style=for-the-badge&logo=telegram)](https://t.me/MHDZUBAIR)
 
 
 
