@@ -17,6 +17,7 @@
 
 💥 PLAYLISTs 💥
 
+* BONGOBD
 * BIOSCOPE
 * TOFFEE
 * ARYZAP
@@ -31,6 +32,7 @@
 * BINGE BD
 * RabbitholeBD
 * DSZB18.Com 
+* NAYATEL PAKISTAN
 
 💥 TOOLS 💥
 * TataPlay Playlist Updater with Private Telegram Bot
